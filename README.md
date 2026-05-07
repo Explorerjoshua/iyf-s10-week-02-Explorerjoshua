@@ -1,102 +1,204 @@
-# Week 2: Personal Portfolio Website
+# CSS Mastery Portfolio Website
 
-## Author
+A fully responsive personal portfolio website built using HTML5 and CSS3 as part of the IYF Weekend Academy Season 10 Week 02 assignment. The project focuses on mastering modern CSS techniques including Flexbox, CSS Grid, responsive design, typography systems, color systems, and accessibility best practices.
 
-**Name:** Joshua Wandera
+---
 
-**GitHub:** @Explorerjoshua
+## 📌 Project Overview
 
-**Date:** February 24, 2026
+This project transforms a basic HTML portfolio into a professional and responsive website that adapts seamlessly across mobile, tablet, and desktop devices.
 
+The portfolio includes:
+- Responsive navigation bar
+- Hero section
+- About page
+- Projects showcase
+- Contact form
+- CSS Grid gallery
+- Mobile-first responsive layouts
+- Hover and focus interactions
 
-## Project Description
+---
 
-This project is a personal portfolio website built to showcase my programming skills, projects, and contact information. The goal of this project was to practice structuring a complete website using semantic HTML, styling it with CSS, and preparing it for deployment using GitHub.
+## 🚀 Features
 
+### ✅ CSS Fundamentals
+- CSS reset
+- Typography system using CSS variables
+- Custom color palette using CSS custom properties
+- Reusable utility classes
 
-## Technologies Used
+### ✅ Responsive Design
+- Mobile-first approach
+- Responsive layouts for all screen sizes
+- Media queries for tablets and desktops
+- Flexible images and containers
 
-HTML5
+### ✅ Flexbox Layouts
+- Responsive navigation bar
+- Card layouts
+- Footer columns
+- Hero section alignment
 
-CSS3
+### ✅ CSS Grid
+- Responsive project gallery
+- Multi-column layouts
+- Adaptive project cards
 
-JavaScript
+### ✅ UI Enhancements
+- Smooth hover effects
+- Button animations
+- Focus states for accessibility
+- Card shadows and transitions
 
-Git & GitHub
+---
 
+## 🛠️ Technologies Used
 
-## Features
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Google Fonts
+- Responsive Design Principles
 
-Responsive navigation bar
+---
 
-About Me section
+## 📂 Project Structure
 
-Projects showcase section
+```plaintext
+iyf-s10-week-02-Explorerjoshua/
+│
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+├── box-model-practice.html
+│
+├── css/
+│   └── styles.css
+│
+├── images/
+│   ├── profile.jpg
+│   ├── hero.jpg
+│   ├── project1.png
+│   ├── project2.png
+│   └── project3.png
+│
+└── README.md
+````
 
-Contact form
+---
 
-Clean and modern layout
+## 📱 Responsive Breakpoints
 
-Mobile-friendly design
+| Device        | Width   |
+| ------------- | ------- |
+| Mobile        | 320px+  |
+| Tablet        | 768px+  |
+| Desktop       | 1024px+ |
+| Large Screens | 1280px+ |
 
+---
 
-## How to Run
+## 🎨 Design Features
 
-1. Clone this repository:
+* Clean and modern UI
+* Consistent spacing system
+* Professional typography hierarchy
+* Accessible color contrast
+* Interactive hover states
+* Smooth transitions and animations
 
-git clone https://github.com/Explorerjoshua/your-repo-name.git
+---
 
+## 🧪 Testing
 
-2. Open index.html in your browser
+The website was tested on:
 
+* Mobile devices
+* Tablets
+* Desktop screens
+* Multiple browser sizes using developer tools
 
+---
 
-OR
+## 📖 Lessons Covered
 
-If using a Node environment:
+### Lesson 3
 
-npm install
-npm start
+* CSS Fundamentals
+* Box Model
+* Typography Systems
+* Color Systems
 
+### Lesson 4
 
-## Lessons Learned
+* Flexbox
+* CSS Grid
+* Mobile-First Responsive Design
+* Accessibility & UI Polish
 
-How to structure a complete website using semantic HTML
+---
 
-How to organize CSS for clean and maintainable styling
+## 📸 Screenshots
 
-How to push and manage projects on GitHub
+### Home Page
 
-The importance of responsive design
+*Add screenshot here*
 
-How to think like a frontend developer
+### Projects Page
 
+*Add screenshot here*
 
-## Challenges Faced
+### Mobile View
 
-Aligning sections properly using CSS
+*Add screenshot here*
 
-Making the layout responsive on smaller screens
+---
 
-Understanding proper folder structure
+## 🌐 Live Demo
 
-Debugging minor layout and styling issues
+Add your deployed project link here:
 
+```txt
+https://github.com/Explorerjoshua/iyf-s10-week-02-Explorerjoshua
+```
 
-I solved these challenges by:
+You can deploy using:
 
-Using Flexbox for layout alignment
+* GitHub Pages
+* Netlify
+* Vercel
 
-Testing on different screen sizes
+---
 
-Refactoring my CSS structure
+## 👨‍💻 Author
 
-Using browser developer tools for debugging
+### Joshua Wandera Oniala
 
+* Bachelor of Education Student — Music & Kiswahili
+* Kenyatta University
+* Web Development Student at IYF Weekend Academy
 
-## Live Demo (will be deployed soon)
+---
 
+## 📄 License
 
+This project was created for educational purposes as part of the IYF Weekend Academy training program.
 
+---
 
-I can customize this 100% specifically for your actu
+## 🙏 Acknowledgements
+
+Special thanks to:
+
+* IYF Weekend Academy
+* MDN Web Docs
+* CSS-Tricks
+* Google Fonts
+* Flexbox Froggy
+* Grid Garden
+
+```
+```
