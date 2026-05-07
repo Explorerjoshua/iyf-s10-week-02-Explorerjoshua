@@ -1,0 +1,71 @@
+/* =========================
+   RESET
+========================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* =========================
+   ROOT VARIABLES
+========================= */
+
+:root {
+
+    --color-primary: #00adb5;
+    --color-primary-dark: #008891;
+    --color-secondary: #222831;
+    --color-background: #f4f4f4;
+    --color-text: #333333;
+    --color-muted: #6c757d;
+    --color-white: #ffffff;
+
+    --font-heading: 'Poppins', sans-serif;
+    --font-body: 'Roboto', sans-serif;
+
+    --font-xs: 0.75rem;
+    --font-sm: 0.875rem;
+    --font-base: 1rem;
+    --font-lg: 1.125rem;
+    --font-xl: 1.25rem;
+    --font-2xl: 1.5rem;
+    --font-3xl: 1.875rem;
+    --font-4xl: 2.25rem;
+
+    --radius: 10px;
+
+    --shadow-sm: 0 2px 5px rgba(0,0,0,0.1);
+    --shadow-lg: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+/* =========================
+   BODY
+========================= */
+
+body {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    background: var(--color-background);
+    color: var(--color-text);
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.section {
+    padding: 4rem 0;
+}
+
+.section-title {
+    bac
